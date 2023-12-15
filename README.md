@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to the demo version of LeakWallet Hunter. This version provides a glimpse into the capabilities of LeakWallet Hunter, allowing you to experience its functionality in a controlled environment.
 
-![LeakWallet Hunter Demo](banner.jpg)
+![LeakWallet Hunter Demo](Banner.jpg)
 
 ## How to Run the Demo
 ### For Linux:
